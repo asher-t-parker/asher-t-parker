@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @asher-t-parker
-- 👀 I’m interested in Full-Stack Development, Web3, and AR.
-- 🌱 I’m currently learning Full-Stack Development (PERN).
-- 🏡 I live in Austin, TX.
+- 👀 I’m interested in full-stack, web3, and industrial blockchain.
+- 🌱 I’m currently learning full-stack development (PERN).
 - ❤️ When I'm not coding, I'm studying philosophy, lifting, or camping.
 - 📫 You can reach me at a@ashertparker.com
