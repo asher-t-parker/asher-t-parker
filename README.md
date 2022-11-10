@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @asher-t-parker
-- 👨 🏼‍💻 I've worked in DevOps and microservice development.
+- 💻 I've worked in DevOps and microservice development.
 - ❤️ When I'm not coding, I'm studying philosophy, lifting, or camping.
 - 💼 You can find me on LinkedIn [here](https://www.linkedin.com/in/asher-t-parker/).
 - 📫 You can reach me at a@ashertparker.com
