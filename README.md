@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @asher-t-parker
+- 👋 Hi, I’m @asher-t-parker.
 - 💻 I'm working in DevOps and microservice development (Go/Terraform/Java/K8s...).
 - ❤️ When I'm not coding, I'm studying philosophy, lifting, or camping.
 - 💼 You can find me on LinkedIn [here](https://www.linkedin.com/in/asher-t-parker/).
-- 📫 You can reach me on LinkedIn or at asher.parker@outlook.com
+- 📫 You can reach me on LinkedIn or at asher.parker@outlook.com.
